@@ -4,7 +4,9 @@
 
 <br>
 
-<img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTl2MmQ2dWVzZzZ3M2QyajF2MXg3dmE2ZnlnZDEzNDg5ZnB0cG84ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+<img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTl2MmQ2dWVzZzZ3M2QyajF2MXg3dmE2ZnlnZDEzNDg5ZnB0cG84ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+
+
 
 ### Connect with me 🤝
 
@@ -26,9 +28,8 @@
   </a>
 </div>
 
-<br clear="right"/>
 
----
+
 
 ### Technologies 💻
 
@@ -51,6 +52,8 @@
   
 </div>
 
+<br>
+
 ---
 
 ### 🐍 Contribution Snake
@@ -71,4 +74,4 @@
 
 ### 🎵 Recently Played on Spotify
 
-![Alt text ](https://spotify-recently-played-readme.vercel.app/api?user=6rpobbimj79valpumx7par651&unique={true|1|on|yes})
+![Alt text center](https://spotify-recently-played-readme.vercel.app/api?user=6rpobbimj79valpumx7par651&unique={true|1|on|yes})
