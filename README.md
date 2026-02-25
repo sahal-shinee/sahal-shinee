@@ -75,12 +75,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/sahal-shinee/sahal-shinee/output/snake.svg" alt="Snake animation" />
-
----
-
 <div align="center">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahal-shinee&theme=tokyonight" />
@@ -98,6 +92,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahal-shinee&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
+
+---
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/sahal-shinee/sahal-shinee/output/snake.svg" alt="Snake animation" />
 
 ---
 
