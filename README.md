@@ -66,16 +66,31 @@
 
 ---
 
-### 🕹️ Pacman Contribution Graph
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahal-shineee/sahal-shinee/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahal-shineee/sahal-shinee/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sahal-shineee/sahal-shinee/output/pacman-contribution-graph.svg">
-</picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahal-shinee&theme=tokyonight" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sahal-shinee&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahal-shinee&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
 
 ---
 
 ### 🎵 Recently Played on Spotify
 
-![Alt text center](https://spotify-recently-played-readme.vercel.app/api?user=6rpobbimj79valpumx7par651&unique={true|1|on|yes})
+<div align="center">
+
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=6rpobbimj79valpumx7par651&unique=true" />
+
+</div>
+
