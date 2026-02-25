@@ -50,6 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" alt="laravel" title="Laravel" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="android" title="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/javascript-original.svg" height="45" alt="android" title="Android" />
   
 </div>
 
