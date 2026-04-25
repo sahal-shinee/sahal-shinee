@@ -24,9 +24,6 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Facebook-%23E4405F.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Instagram" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/linkedin-%23E4405F.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Instagram" />
-  </a>
 </div>
 
 
